@@ -1,0 +1,8 @@
+prefix=/home/casch/catkin_ws/install
+
+Name: flexbe_app
+Description: Description of flexbe_app
+Version: 2.2.1
+Cflags: -I/home/casch/catkin_ws/install/include
+Libs: -L/home/casch/catkin_ws/install/lib -lflexbe_app
+Requires: 

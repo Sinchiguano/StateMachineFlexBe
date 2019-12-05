@@ -1,0 +1,8 @@
+prefix=/home/casch/catkin_ws/install
+
+Name: flexbe_mirror
+Description: Description of flexbe_mirror
+Version: 1.2.2
+Cflags: -I/home/casch/catkin_ws/install/include
+Libs: -L/home/casch/catkin_ws/install/lib -lflexbe_mirror
+Requires: 

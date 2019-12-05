@@ -1,0 +1,8 @@
+prefix=/home/casch/catkin_ws/install
+
+Name: flexbe_widget
+Description: Description of flexbe_widget
+Version: 1.2.2
+Cflags: -I/home/casch/catkin_ws/install/include
+Libs: -L/home/casch/catkin_ws/install/lib -lflexbe_widget
+Requires: 

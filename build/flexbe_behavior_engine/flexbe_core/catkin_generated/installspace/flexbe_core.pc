@@ -1,0 +1,8 @@
+prefix=/home/casch/catkin_ws/install
+
+Name: flexbe_core
+Description: Description of flexbe_core
+Version: 1.2.2
+Cflags: -I/home/casch/catkin_ws/install/include
+Libs: -L/home/casch/catkin_ws/install/lib -lflexbe_core
+Requires: 
